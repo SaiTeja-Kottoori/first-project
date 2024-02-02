@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#bar {
+    color: saddlebrown;background-color: rgba(180, 140, 209,0.7);
+}
+main {
+    height: 500px;
+    background-color:deepskyblue;
+}
+#say {
+    height: 300px;
+    width: 200px;
+    /* background-image: url(rohit.jpeg);
+    background-repeat: no-repeat;
+    background-position: center; */
+    background: green url(rohit.jpeg) no-repeat center;
+}

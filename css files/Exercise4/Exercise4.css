@@ -1,0 +1,27 @@
+#exe4 {
+    height: 200px;
+    width: 200px;
+    background-color: mediumaquamarine;
+}
+#button{
+    height: 100px;
+    width: 100px;
+    padding: 10px 15px;
+    margin: 100px;
+    border: red dotted;
+    border-radius: 50px;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    padding: 10px;
+}
+#first {
+    background-color: indigo;
+    box-sizing: border-box;
+}
+#second {
+    background-color: olivedrab;
+    box-sizing: content-box;
+}

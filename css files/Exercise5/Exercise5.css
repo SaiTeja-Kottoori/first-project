@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav {
+    padding: 5px;
+}
+nav a {
+    text-decoration: none;
+    padding: 5px;
+    margin-left: 55px;
+}
+
+header {
+    height: 30px;
+    background-color: darkviolet;
+}
+#second {
+    height: 50px;
+    width: 50px;
+    background-color: darkslategray;
+    border-radius: 50%;
+}
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: darkblue;
+    margin: 5px;
+    display: inline-block;
+}
+#container {
+    border: 3px solid;
+    margin: 5px;
+}
+#box4 {
+    position: fixed;
+    right: 10px;
+}
+#box2 {
+    z-index: 2;
+    position: absolute;
+    left: 20px;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: darksalmon;
+}
